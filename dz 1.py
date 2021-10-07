@@ -1,5 +1,6 @@
 
 #Задание номер 1
+1
 duration = int(input())
 m = duration // 60
 h = duration // 3600

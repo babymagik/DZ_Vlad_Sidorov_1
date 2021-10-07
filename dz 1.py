@@ -1,3 +1,5 @@
+
+#Задание номер 1
 duration = int(input())
 m = duration // 60
 h = duration // 3600
@@ -19,7 +21,7 @@ else:
 
 
 
-
+#Задание номер 3
 list_a = list(range(21, 92, 10)) + [1]
 list_b = list(range(2, 5,))
 list_c = list(range(11, 15))
